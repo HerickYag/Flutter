@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/ProviderTestes/contador/aula_multiprovider_count_card/state/cart.dart'; //
-import 'package:myapp/ProviderTestes/contador/aula_multiprovider_count_card/state/count.dart'; //
+import '../state/cart.dart'; //
+import '../state/count.dart'; //
 import 'package:provider/provider.dart';
 import 'dart:math'; // For generating distinct new items, optional
 

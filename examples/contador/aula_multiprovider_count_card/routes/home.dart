@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/ProviderTestes/contador/aula_multiprovider_count_card/routes/routeGenerator.dart';
-import 'package:myapp/ProviderTestes/contador/aula_multiprovider_count_card/state/count.dart';
+import 'routeGenerator.dart';
+import '../state/count.dart';
 
 
 import 'package:provider/provider.dart';
